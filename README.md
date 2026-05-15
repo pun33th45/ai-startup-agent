@@ -62,26 +62,26 @@ No hallucination loops. No vague output. Just structured, actionable intelligenc
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                       AI STARTUP AGENT PIPELINE                      │
+│                       AI STARTUP AGENT PIPELINE                     │
 ├─────────────────────────────────────────────────────────────────────┤
-│                                                                       │
-│   User Input          Prompt Template         Groq LLM               │
+│                                                                     │
+│   User Input          Prompt Template         Groq LLM              │
 │  ┌──────────┐        ┌──────────────┐       ┌──────────┐            │
-│  │  Niche / │──────▶ │  Structured  │──────▶│ Llama 3  │            │
+│  │  Niche / │──────▶ │  Structured  │──────▶│ Llama 3 │            │
 │  │  Topic   │        │  Prompt w/   │       │ (via     │            │
 │  │          │        │  Context     │       │  Groq)   │            │
 │  └──────────┘        └──────────────┘       └────┬─────┘            │
-│                                                   │                  │
-│                                                   ▼                  │
+│                                                   │                 │
+│                                                   ▼                 │
 │              ┌────────────────────────────────────────────┐         │
-│              │              Structured Output              │         │
-│              ├────────────┬───────────┬────────────────────┤         │
-│              │ Startup    │ Audience  │  Monetization      │         │
-│              │ Ideas      │ Profile   │  Strategy          │         │
-│              ├────────────┼───────────┼────────────────────┤         │
-│              │ MVP        │ Market    │  Competitor        │         │
-│              │ Roadmap    │ Insights  │  Analysis          │         │
-│              └────────────┴───────────┴────────────────────┘         │
+│              │              Structured Output              │        │
+│              ├────────────┬───────────┬────────────────────┤        │
+│              │ Startup    │ Audience  │  Monetization      │        │
+│              │ Ideas      │ Profile   │  Strategy          │        │
+│              ├────────────┼───────────┼────────────────────┤        │
+│              │ MVP        │ Market    │  Competitor        │        │
+│              │ Roadmap    │ Insights  │  Analysis          │        │
+│              └────────────┴───────────┴────────────────────┘        │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
