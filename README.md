@@ -2,21 +2,7 @@
 
 <br/>
 
-<!-- ASCII/Text hero — swap for a banner image if you create one -->
-```
-  █████╗ ██╗    ███████╗████████╗ █████╗ ██████╗ ████████╗██╗   ██╗██████╗
- ██╔══██╗██║    ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝██║   ██║██╔══██╗
- ███████║██║    ███████╗   ██║   ███████║██████╔╝   ██║   ██║   ██║██████╔╝
- ██╔══██║██║    ╚════██║   ██║   ██╔══██║██╔══██╗   ██║   ██║   ██║██╔═══╝
- ██║  ██║██║    ███████║   ██║   ██║  ██║██║  ██║   ██║   ╚██████╔╝██║
- ╚═╝  ╚═╝╚═╝   ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝
-                        ██████╗ ███████╗███╗   ██╗████████╗
-                       ██╔══██╗██╔════╝████╗  ██║╚══██╔══╝
-                       ███████║█████╗  ██╔██╗ ██║   ██║
-                       ██╔══██║██╔══╝  ██║╚██╗██║   ██║
-                       ██║  ██║███████╗██║ ╚████║   ██║
-                       ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%20Startup%20Agent&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=From%20idea%20to%20insights%20%E2%80%94%20in%20seconds.&descAlignY=55&descSize=18" width="100%"/>
 
 # AI Startup Agent
 
