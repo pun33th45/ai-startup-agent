@@ -1,2 +1,4 @@
-langflow
+langflow>=1.0.0
 uvicorn
+setuptools
+wheel
