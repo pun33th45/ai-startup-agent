@@ -67,7 +67,7 @@ No hallucination loops. No vague output. Just structured, actionable intelligenc
 │                                                                     │
 │   User Input          Prompt Template         Groq LLM              │
 │  ┌──────────┐        ┌──────────────┐       ┌──────────┐            │
-│  │  Niche / │──────▶ │  Structured  │──────▶│ Llama 3 │            │
+│  │  Niche / │──────▶│  Structured  │─────▶│ Llama 3   │            │
 │  │  Topic   │        │  Prompt w/   │       │ (via     │            │
 │  │          │        │  Context     │       │  Groq)   │            │
 │  └──────────┘        └──────────────┘       └────┬─────┘            │
